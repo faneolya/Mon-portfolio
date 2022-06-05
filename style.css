@@ -416,7 +416,9 @@ section .title::after{
 .owl-dot:hover{
     background: #FC85C9!important;
 }
-
+.contact{
+    background-color: #B88CCF;
+}
 .contact .title::after{
     content: "contactez-moi";
 }
@@ -450,7 +452,7 @@ section .title::after{
     font-weight: 500;
 }
 .contact .contact-content .info .sub-title{
-    color: #333;
+    color: white;
 }
 .contact .right form .fields{
     display: flex;
